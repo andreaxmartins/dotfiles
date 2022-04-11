@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andreaxmartins@gmail.com
+	name = Andrea Martins
